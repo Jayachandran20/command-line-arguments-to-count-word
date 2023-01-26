@@ -19,8 +19,8 @@ Run the program in the vscode, in the terminal type the following commands.
 End the program.
 ## PROGRAM:
 ```
-#Developed by: JAYAMANI R
-#Reference no: 22008124
+#Developed by: M.Jayachandran
+#Reference no: 22008847
 import sys
 count={}
 a=sys.argv[1]
