@@ -36,6 +36,7 @@ f.close()
 ```
 
 ### OUTPUT:
+![hi](https://user-images.githubusercontent.com/118447015/214828755-5cf6d5df-efe6-4949-9cee-0e6809669813.jpg)
 
 
 
